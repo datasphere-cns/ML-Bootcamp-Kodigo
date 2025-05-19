@@ -1,7 +1,7 @@
 
 # Visualizaciones con ggplot2 - Transacciones con Tarjeta
 
-En este documento se utilizan datos simulados de transacciones de tarjeta de credito para crear visualizaciones atractivas y funcionales usando `ggplot2`.
+En este documento se utilizan datos simulados de transacciones de tarjeta de credito para crear visualizaciones funcionales usando `ggplot2`.
 
 ---
 
