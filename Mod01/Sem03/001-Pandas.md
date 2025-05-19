@@ -1,6 +1,6 @@
 # Introducción a Pandas en Python
-# Instructor: Nelson Zepeda
-# Kodigo.org
+## Instructor: Nelson Zepeda
+### Kodigo.org
 
 ## ¿Qué es Pandas?
 
