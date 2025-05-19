@@ -3,6 +3,9 @@
 
 En este documento se utilizan datos simulados de transacciones de tarjeta de credito para crear visualizaciones funcionales usando `ggplot2`.
 
+Pasos para instalar un paquete:
+install.packages("ggplot2")
+
 ---
 
 ## Paso 1: Cargar paquetes y dataset
