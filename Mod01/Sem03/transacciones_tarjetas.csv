@@ -1,0 +1,501 @@
+id_transaccion,monto,categoria,hora,ciudad,genero,edad,fecha
+1,119.68,Tecnologia,1,San Salvador,Femenino,30,2024-06-14
+2,74.72,Combustible,17,San Salvador,Femenino,51,2024-08-17
+3,69.11,Tecnologia,5,La Libertad,Masculino,62,2025-04-04
+4,69.12,Combustible,8,Sonsonate,Femenino,39,2024-01-23
+5,232.49,Combustible,0,San Miguel,Femenino,40,2024-11-02
+6,143.34,Supermercado,8,Sonsonate,Femenino,68,2024-10-13
+7,56.55,Restaurante,15,La Libertad,Femenino,20,2024-01-18
+8,123.49,Combustible,12,San Salvador,Femenino,59,2024-01-21
+9,99.95,Viajes,8,Sonsonate,Masculino,51,2024-04-07
+10,10.8,Combustible,20,Sonsonate,Masculino,49,2024-09-02
+11,33.56,Ropa,12,San Salvador,Masculino,62,2024-06-20
+12,105.31,Restaurante,8,San Miguel,Masculino,68,2024-02-25
+13,218.26,Ropa,10,San Salvador,Masculino,66,2025-02-19
+14,69.59,Restaurante,3,Sonsonate,Masculino,38,2024-09-06
+15,52.9,Ropa,1,San Miguel,Femenino,63,2025-01-29
+16,90.7,Combustible,5,San Miguel,Masculino,61,2025-03-05
+17,50.26,Combustible,13,San Salvador,Masculino,38,2024-02-06
+18,65.89,Supermercado,3,Sonsonate,Femenino,61,2024-06-30
+19,82.47,Viajes,5,La Libertad,Femenino,28,2024-08-04
+20,32.01,Ropa,18,Sonsonate,Masculino,56,2024-05-19
+21,148.5,Tecnologia,5,Santa Ana,Femenino,21,2024-11-14
+22,26.76,Supermercado,1,La Libertad,Masculino,68,2025-04-02
+23,23.64,Ropa,17,San Miguel,Femenino,18,2025-01-10
+24,96.7,Ropa,12,La Libertad,Masculino,45,2024-08-14
+25,140.67,Supermercado,8,San Miguel,Femenino,41,2024-09-19
+26,94.89,Combustible,22,San Miguel,Femenino,52,2024-11-11
+27,76.09,Ropa,18,La Libertad,Masculino,30,2024-10-18
+28,65.37,Combustible,12,San Miguel,Masculino,64,2024-06-13
+29,57.0,Supermercado,10,San Miguel,Masculino,51,2025-02-23
+30,171.89,Combustible,0,Santa Ana,Masculino,28,2024-08-30
+31,106.05,Restaurante,23,Sonsonate,Masculino,53,2024-05-03
+32,60.87,Tecnologia,21,Sonsonate,Femenino,68,2024-02-29
+33,46.83,Ropa,6,Santa Ana,Masculino,34,2025-04-07
+34,129.38,Viajes,20,La Libertad,Masculino,52,2025-02-20
+35,169.17,Tecnologia,14,San Salvador,Femenino,35,2024-09-07
+36,159.06,Combustible,0,San Salvador,Femenino,57,2025-01-20
+37,40.05,Ropa,11,San Salvador,Masculino,39,2024-12-28
+38,64.92,Combustible,6,Santa Ana,Femenino,41,2024-10-31
+39,56.07,Restaurante,14,Santa Ana,Femenino,36,2024-07-25
+40,71.91,Supermercado,20,San Miguel,Masculino,54,2024-02-11
+41,147.55,Ropa,18,San Salvador,Femenino,56,2024-02-14
+42,205.11,Restaurante,0,La Libertad,Femenino,38,2024-12-10
+43,108.92,Restaurante,16,La Libertad,Masculino,25,2024-07-16
+44,48.24,Ropa,16,San Salvador,Masculino,45,2025-04-23
+45,81.04,Combustible,2,San Salvador,Femenino,22,2024-05-24
+46,230.63,Viajes,11,San Salvador,Femenino,34,2024-07-23
+47,89.08,Restaurante,5,Santa Ana,Masculino,54,2024-05-21
+48,65.48,Tecnologia,10,Santa Ana,Femenino,53,2024-01-26
+49,69.94,Restaurante,2,Santa Ana,Femenino,36,2025-01-09
+50,108.58,Viajes,7,Sonsonate,Femenino,44,2024-09-15
+51,41.28,Combustible,13,La Libertad,Masculino,51,2024-03-11
+52,54.96,Combustible,13,La Libertad,Femenino,28,2024-07-19
+53,157.49,Tecnologia,9,San Miguel,Femenino,62,2024-08-06
+54,106.41,Restaurante,1,Santa Ana,Masculino,64,2024-05-09
+55,89.76,Combustible,13,Sonsonate,Femenino,29,2024-02-04
+56,162.8,Viajes,8,Sonsonate,Femenino,38,2024-10-01
+57,45.73,Ropa,2,La Libertad,Masculino,28,2025-02-12
+58,63.92,Supermercado,20,Santa Ana,Masculino,56,2024-08-05
+59,103.95,Supermercado,7,San Miguel,Masculino,45,2024-06-26
+60,101.35,Supermercado,15,Santa Ana,Masculino,22,2025-03-26
+61,21.29,Restaurante,1,San Salvador,Femenino,34,2024-11-24
+62,59.02,Tecnologia,5,Santa Ana,Femenino,37,2024-10-07
+63,73.35,Combustible,20,San Salvador,Masculino,58,2025-01-03
+64,112.23,Ropa,11,San Salvador,Masculino,63,2024-12-06
+65,101.09,Viajes,4,San Miguel,Femenino,29,2025-05-02
+66,78.62,Ropa,1,La Libertad,Masculino,23,2024-03-07
+67,10.71,Viajes,15,Santa Ana,Femenino,34,2024-10-17
+68,81.63,Restaurante,4,San Salvador,Masculino,68,2024-03-17
+69,87.28,Supermercado,14,Santa Ana,Femenino,36,2024-04-19
+70,364.9,Restaurante,11,La Libertad,Masculino,43,2024-07-26
+71,71.52,Tecnologia,3,La Libertad,Masculino,65,2024-06-06
+72,104.35,Tecnologia,14,Sonsonate,Femenino,61,2024-05-10
+73,181.01,Viajes,10,La Libertad,Masculino,61,2024-12-18
+74,141.9,Combustible,15,San Miguel,Femenino,69,2024-05-15
+75,210.64,Combustible,22,San Salvador,Femenino,49,2025-02-03
+76,21.65,Viajes,5,Sonsonate,Femenino,23,2024-12-13
+77,34.35,Tecnologia,13,San Miguel,Femenino,53,2024-11-12
+78,51.86,Tecnologia,17,Santa Ana,Femenino,55,2025-01-23
+79,17.97,Tecnologia,11,San Salvador,Masculino,28,2024-09-18
+80,87.84,Restaurante,10,La Libertad,Masculino,50,2025-02-11
+81,36.96,Tecnologia,12,San Salvador,Femenino,41,2024-06-24
+82,228.76,Ropa,20,Santa Ana,Masculino,40,2025-02-22
+83,42.31,Supermercado,22,Sonsonate,Femenino,32,2024-01-29
+84,64.23,Tecnologia,10,Sonsonate,Masculino,44,2024-01-20
+85,147.65,Viajes,22,Sonsonate,Masculino,28,2024-04-01
+86,26.46,Supermercado,15,La Libertad,Masculino,68,2024-09-20
+87,16.68,Restaurante,14,San Miguel,Masculino,67,2024-07-01
+88,95.83,Viajes,20,San Miguel,Femenino,34,2025-02-06
+89,101.26,Supermercado,14,San Salvador,Femenino,68,2025-02-28
+90,144.67,Viajes,3,La Libertad,Masculino,31,2024-03-19
+91,121.77,Restaurante,10,Sonsonate,Masculino,44,2025-01-30
+92,104.01,Ropa,18,Sonsonate,Femenino,35,2024-08-19
+93,46.69,Restaurante,14,Santa Ana,Masculino,45,2024-08-20
+94,99.24,Restaurante,3,Santa Ana,Femenino,68,2024-10-10
+95,103.72,Viajes,20,Sonsonate,Femenino,64,2024-04-15
+96,45.2,Combustible,12,Sonsonate,Femenino,64,2024-08-02
+97,271.1,Tecnologia,21,La Libertad,Masculino,21,2024-08-23
+98,117.81,Tecnologia,18,San Miguel,Femenino,24,2024-09-14
+99,34.92,Ropa,1,Santa Ana,Masculino,62,2024-12-05
+100,145.16,Ropa,13,San Miguel,Femenino,52,2024-03-06
+101,162.27,Tecnologia,3,La Libertad,Masculino,65,2025-02-07
+102,112.92,Combustible,15,Sonsonate,Masculino,26,2025-01-11
+103,68.48,Tecnologia,20,San Miguel,Masculino,25,2025-04-08
+104,43.53,Combustible,19,Sonsonate,Femenino,69,2024-12-31
+105,78.45,Ropa,13,Sonsonate,Femenino,62,2025-05-11
+106,107.35,Supermercado,14,San Salvador,Masculino,34,2024-06-05
+107,84.18,Viajes,2,San Miguel,Masculino,34,2024-10-27
+108,216.78,Ropa,7,San Miguel,Masculino,66,2025-02-01
+109,130.6,Ropa,15,Sonsonate,Femenino,50,2025-04-24
+110,39.35,Restaurante,9,La Libertad,Femenino,49,2024-01-28
+111,31.56,Restaurante,3,San Salvador,Femenino,25,2024-05-14
+112,118.52,Restaurante,17,Sonsonate,Femenino,36,2024-08-25
+113,69.73,Viajes,1,Santa Ana,Masculino,55,2024-05-22
+114,138.44,Restaurante,16,Santa Ana,Masculino,20,2024-10-12
+115,117.77,Combustible,12,San Salvador,Femenino,22,2025-01-02
+116,78.72,Tecnologia,3,La Libertad,Femenino,30,2024-07-10
+117,39.75,Supermercado,10,Sonsonate,Masculino,64,2024-08-07
+118,18.81,Ropa,6,San Miguel,Femenino,63,2025-04-18
+119,97.93,Combustible,11,San Salvador,Femenino,48,2024-03-15
+120,26.01,Supermercado,9,La Libertad,Femenino,33,2024-02-22
+121,38.31,Combustible,6,San Miguel,Femenino,67,2024-01-12
+122,93.66,Combustible,12,Santa Ana,Femenino,49,2024-12-04
+123,87.15,Ropa,6,Santa Ana,Femenino,39,2024-04-06
+124,29.19,Tecnologia,23,San Miguel,Masculino,46,2024-10-16
+125,174.62,Restaurante,16,San Salvador,Femenino,39,2024-05-23
+126,171.54,Viajes,9,Santa Ana,Femenino,60,2024-12-12
+127,121.2,Tecnologia,9,Sonsonate,Masculino,20,2024-11-23
+128,121.09,Viajes,23,San Miguel,Masculino,27,2024-07-22
+129,121.2,Ropa,3,San Miguel,Masculino,59,2024-05-29
+130,161.33,Ropa,19,Santa Ana,Femenino,38,2024-08-16
+131,132.85,Ropa,3,San Salvador,Masculino,33,2024-11-21
+132,42.74,Supermercado,21,Sonsonate,Femenino,29,2024-04-28
+133,68.96,Viajes,6,San Salvador,Femenino,19,2024-01-07
+134,339.83,Tecnologia,21,La Libertad,Femenino,58,2024-03-12
+135,11.57,Tecnologia,0,La Libertad,Masculino,41,2024-09-24
+136,56.43,Combustible,11,Santa Ana,Masculino,52,2024-04-24
+137,175.24,Combustible,23,Santa Ana,Masculino,47,2024-08-21
+138,45.16,Combustible,12,Santa Ana,Masculino,47,2024-04-29
+139,135.35,Ropa,9,La Libertad,Masculino,64,2024-01-02
+140,86.31,Tecnologia,14,San Salvador,Femenino,52,2024-04-04
+141,47.95,Viajes,12,San Salvador,Femenino,36,2024-12-11
+142,9.05,Ropa,22,Santa Ana,Femenino,67,2025-03-11
+143,95.96,Supermercado,21,Sonsonate,Femenino,25,2025-03-22
+144,41.93,Combustible,21,San Salvador,Masculino,43,2024-05-27
+145,76.14,Ropa,20,La Libertad,Masculino,66,2024-03-04
+146,120.37,Ropa,21,San Miguel,Femenino,57,2024-01-13
+147,152.64,Supermercado,8,San Miguel,Masculino,24,2024-05-31
+148,56.28,Restaurante,8,San Miguel,Masculino,47,2024-03-20
+149,47.88,Tecnologia,14,Sonsonate,Femenino,24,2024-01-27
+150,25.57,Viajes,9,Santa Ana,Femenino,20,2024-07-29
+151,157.73,Restaurante,23,La Libertad,Masculino,18,2024-04-30
+152,309.09,Combustible,9,Sonsonate,Masculino,53,2024-05-13
+153,169.32,Ropa,7,La Libertad,Femenino,42,2024-07-04
+154,194.78,Supermercado,23,La Libertad,Femenino,54,2024-11-09
+155,45.49,Supermercado,15,Santa Ana,Femenino,18,2024-10-24
+156,115.39,Tecnologia,16,San Miguel,Masculino,32,2024-01-14
+157,144.0,Restaurante,4,Santa Ana,Femenino,54,2024-02-02
+158,33.16,Tecnologia,3,Sonsonate,Femenino,30,2024-09-09
+159,239.36,Ropa,17,Sonsonate,Masculino,57,2025-03-24
+160,20.91,Tecnologia,23,Sonsonate,Masculino,25,2025-03-07
+161,215.28,Viajes,18,Santa Ana,Masculino,22,2024-02-12
+162,20.76,Supermercado,3,La Libertad,Masculino,26,2024-03-23
+163,34.68,Supermercado,6,La Libertad,Masculino,18,2024-12-02
+164,116.86,Combustible,9,San Salvador,Femenino,53,2024-05-25
+165,87.92,Combustible,17,Sonsonate,Femenino,52,2024-05-07
+166,60.85,Ropa,18,La Libertad,Masculino,19,2024-07-14
+167,233.36,Viajes,3,San Salvador,Masculino,57,2025-05-13
+168,26.25,Restaurante,9,La Libertad,Masculino,40,2024-04-09
+169,73.91,Tecnologia,0,Sonsonate,Masculino,26,2024-11-05
+170,127.37,Ropa,22,San Miguel,Masculino,51,2024-06-25
+171,102.82,Combustible,17,Sonsonate,Femenino,63,2024-08-31
+172,49.25,Tecnologia,4,Santa Ana,Femenino,31,2024-10-19
+173,50.79,Combustible,14,La Libertad,Femenino,21,2025-03-04
+174,151.08,Tecnologia,16,La Libertad,Femenino,47,2024-11-01
+175,155.93,Restaurante,2,Santa Ana,Masculino,48,2025-05-03
+176,104.78,Ropa,11,Santa Ana,Femenino,55,2024-03-03
+177,40.46,Tecnologia,1,San Miguel,Masculino,28,2025-03-20
+178,52.15,Viajes,0,La Libertad,Masculino,52,2024-09-17
+179,81.99,Supermercado,22,La Libertad,Masculino,25,2025-05-01
+180,91.14,Viajes,20,San Miguel,Femenino,20,2024-10-22
+181,123.87,Viajes,16,San Salvador,Masculino,31,2025-03-17
+182,70.95,Supermercado,21,San Miguel,Femenino,30,2025-03-02
+183,148.78,Viajes,15,Sonsonate,Femenino,62,2025-04-19
+184,147.65,Tecnologia,4,La Libertad,Masculino,49,2024-03-13
+185,199.2,Tecnologia,14,Santa Ana,Masculino,51,2024-11-20
+186,84.7,Tecnologia,2,Sonsonate,Masculino,62,2025-03-19
+187,106.06,Supermercado,6,La Libertad,Femenino,36,2024-08-12
+188,75.21,Viajes,10,San Miguel,Masculino,55,2025-04-26
+189,40.89,Supermercado,9,Sonsonate,Femenino,33,2024-10-21
+190,304.5,Tecnologia,8,La Libertad,Masculino,19,2025-02-05
+191,182.67,Viajes,13,San Salvador,Masculino,57,2025-04-14
+192,145.59,Viajes,12,San Salvador,Femenino,34,2024-05-30
+193,82.55,Combustible,1,Santa Ana,Femenino,51,2024-01-01
+194,37.8,Combustible,2,La Libertad,Femenino,59,2025-03-25
+195,163.45,Restaurante,6,San Salvador,Femenino,33,2024-06-15
+196,74.2,Ropa,20,San Miguel,Femenino,55,2024-04-05
+197,112.93,Combustible,17,La Libertad,Femenino,19,2025-04-06
+198,51.98,Supermercado,2,San Miguel,Masculino,19,2024-04-13
+199,100.17,Combustible,9,San Miguel,Masculino,43,2024-07-12
+200,54.71,Restaurante,21,San Salvador,Femenino,30,2025-01-15
+201,56.48,Viajes,6,La Libertad,Masculino,64,2024-05-06
+202,99.23,Restaurante,8,Sonsonate,Femenino,48,2025-01-18
+203,20.45,Viajes,16,San Salvador,Masculino,51,2025-01-07
+204,21.5,Viajes,10,San Salvador,Masculino,56,2024-02-20
+205,45.03,Ropa,6,La Libertad,Femenino,20,2024-07-09
+206,70.3,Combustible,23,La Libertad,Femenino,25,2024-03-05
+207,151.86,Supermercado,13,San Miguel,Femenino,40,2025-04-30
+208,73.43,Supermercado,18,La Libertad,Masculino,31,2024-09-25
+209,82.14,Tecnologia,3,San Miguel,Femenino,44,2024-08-18
+210,66.05,Viajes,5,San Salvador,Masculino,46,2024-12-08
+211,105.95,Supermercado,9,Santa Ana,Femenino,56,2024-06-01
+212,40.53,Ropa,6,Sonsonate,Masculino,56,2024-04-20
+213,76.51,Viajes,12,San Salvador,Masculino,18,2024-06-28
+214,112.05,Ropa,13,La Libertad,Femenino,34,2025-02-24
+215,98.65,Supermercado,3,Sonsonate,Masculino,58,2024-11-07
+216,84.15,Supermercado,7,Santa Ana,Masculino,47,2024-11-29
+217,84.93,Tecnologia,4,Santa Ana,Femenino,30,2024-08-01
+218,119.79,Supermercado,0,San Miguel,Masculino,38,2025-02-26
+219,313.91,Viajes,3,Sonsonate,Femenino,36,2024-11-04
+220,42.97,Viajes,2,San Miguel,Femenino,36,2025-03-10
+221,319.67,Viajes,8,San Salvador,Femenino,42,2024-01-09
+222,41.29,Tecnologia,7,Sonsonate,Femenino,39,2024-06-10
+223,7.68,Tecnologia,0,San Salvador,Masculino,48,2025-01-17
+224,53.79,Supermercado,5,San Miguel,Masculino,34,2024-02-01
+225,107.4,Restaurante,8,Sonsonate,Masculino,40,2025-03-23
+226,272.58,Restaurante,6,San Miguel,Femenino,49,2025-01-01
+227,37.75,Tecnologia,3,Sonsonate,Masculino,27,2024-01-31
+228,119.29,Supermercado,12,San Miguel,Masculino,27,2025-02-04
+229,23.86,Restaurante,16,Santa Ana,Femenino,53,2025-04-28
+230,266.27,Supermercado,1,San Miguel,Femenino,25,2024-07-18
+231,185.0,Supermercado,4,Santa Ana,Masculino,69,2025-04-16
+232,56.57,Supermercado,11,San Miguel,Femenino,37,2025-05-14
+233,204.83,Combustible,20,Sonsonate,Femenino,49,2024-07-31
+234,76.16,Viajes,7,Sonsonate,Femenino,67,2024-01-22
+235,191.49,Supermercado,5,Sonsonate,Femenino,31,2024-01-16
+236,83.67,Combustible,7,La Libertad,Masculino,67,2025-01-19
+237,86.4,Tecnologia,17,San Salvador,Femenino,45,2025-02-02
+238,57.53,Restaurante,2,Sonsonate,Femenino,63,2024-04-27
+239,130.35,Viajes,21,Santa Ana,Femenino,69,2025-04-25
+240,91.34,Restaurante,11,Sonsonate,Femenino,41,2024-05-02
+241,121.15,Viajes,2,La Libertad,Femenino,32,2025-04-10
+242,18.35,Restaurante,21,Santa Ana,Femenino,39,2024-05-05
+243,196.01,Viajes,5,La Libertad,Femenino,47,2024-07-03
+244,228.91,Restaurante,1,Santa Ana,Femenino,21,2024-11-30
+245,91.03,Restaurante,22,San Miguel,Masculino,30,2025-02-08
+246,299.69,Restaurante,11,San Salvador,Femenino,40,2024-12-15
+247,255.75,Restaurante,1,San Salvador,Masculino,25,2024-10-15
+248,132.32,Tecnologia,5,La Libertad,Femenino,35,2024-01-25
+249,206.57,Supermercado,16,San Salvador,Femenino,29,2024-12-30
+250,172.03,Ropa,2,La Libertad,Femenino,48,2024-07-08
+251,13.56,Combustible,1,La Libertad,Femenino,31,2024-01-30
+252,67.12,Ropa,22,La Libertad,Masculino,51,2025-03-06
+253,138.76,Ropa,19,San Salvador,Femenino,35,2024-12-09
+254,238.86,Viajes,7,La Libertad,Femenino,51,2024-03-27
+255,22.22,Supermercado,21,San Salvador,Masculino,28,2025-02-17
+256,14.65,Viajes,11,La Libertad,Masculino,58,2025-02-13
+257,79.8,Supermercado,3,Sonsonate,Femenino,29,2024-09-26
+258,8.44,Supermercado,4,La Libertad,Masculino,66,2024-08-26
+259,77.71,Restaurante,12,Santa Ana,Masculino,32,2024-02-07
+260,109.31,Tecnologia,14,La Libertad,Masculino,48,2024-06-27
+261,36.2,Restaurante,22,San Miguel,Femenino,66,2025-03-18
+262,79.35,Tecnologia,15,La Libertad,Femenino,46,2024-07-30
+263,161.44,Viajes,9,Santa Ana,Femenino,43,2024-03-25
+264,53.58,Tecnologia,22,Santa Ana,Masculino,35,2024-10-14
+265,41.92,Viajes,15,San Salvador,Femenino,49,2024-06-16
+266,76.61,Ropa,11,Sonsonate,Masculino,39,2024-05-17
+267,32.78,Ropa,16,La Libertad,Femenino,55,2025-04-12
+268,285.37,Tecnologia,15,San Salvador,Femenino,34,2024-10-29
+269,85.63,Tecnologia,11,Sonsonate,Masculino,40,2024-09-05
+270,45.84,Viajes,7,La Libertad,Femenino,41,2025-03-01
+271,97.92,Restaurante,19,San Miguel,Masculino,67,2024-10-02
+272,76.29,Viajes,2,La Libertad,Masculino,25,2024-09-10
+273,69.87,Restaurante,15,Santa Ana,Femenino,58,2024-03-09
+274,53.57,Ropa,12,Santa Ana,Masculino,23,2025-03-29
+275,51.42,Supermercado,22,San Miguel,Femenino,22,2025-01-22
+276,18.8,Tecnologia,18,San Salvador,Femenino,61,2024-11-25
+277,206.37,Restaurante,7,Sonsonate,Masculino,46,2024-01-04
+278,126.37,Viajes,21,La Libertad,Femenino,45,2024-10-23
+279,105.08,Ropa,4,Santa Ana,Masculino,28,2024-01-24
+280,75.35,Restaurante,19,San Salvador,Femenino,18,2024-06-12
+281,35.62,Viajes,7,San Miguel,Femenino,60,2024-07-07
+282,43.42,Tecnologia,23,Santa Ana,Femenino,36,2024-10-26
+283,21.11,Tecnologia,11,San Miguel,Femenino,26,2024-10-09
+284,48.18,Combustible,0,La Libertad,Femenino,44,2024-10-06
+285,31.2,Supermercado,20,Sonsonate,Masculino,51,2024-07-13
+286,246.57,Combustible,19,Santa Ana,Masculino,61,2024-09-27
+287,154.18,Ropa,5,Santa Ana,Masculino,21,2025-04-01
+288,88.43,Restaurante,21,La Libertad,Masculino,53,2024-04-12
+289,39.18,Ropa,17,San Salvador,Masculino,35,2024-04-21
+290,32.71,Viajes,7,Sonsonate,Masculino,32,2024-05-26
+291,71.64,Tecnologia,6,Santa Ana,Femenino,68,2024-11-13
+292,158.55,Combustible,0,Sonsonate,Femenino,30,2024-11-08
+293,21.73,Combustible,20,Santa Ana,Masculino,36,2024-10-30
+294,125.21,Combustible,15,Sonsonate,Masculino,66,2024-12-29
+295,48.0,Ropa,11,San Miguel,Femenino,23,2025-01-14
+296,55.68,Tecnologia,5,Santa Ana,Femenino,65,2025-01-16
+297,86.5,Restaurante,19,Sonsonate,Femenino,29,2024-10-05
+298,40.38,Viajes,1,San Salvador,Masculino,68,2024-05-11
+299,68.84,Restaurante,13,San Miguel,Masculino,54,2024-05-12
+300,37.41,Ropa,3,San Miguel,Masculino,34,2024-02-09
+301,51.37,Viajes,0,San Salvador,Femenino,40,2025-01-13
+302,142.22,Combustible,22,Sonsonate,Femenino,43,2024-07-17
+303,89.91,Supermercado,17,La Libertad,Masculino,46,2025-04-27
+304,141.85,Ropa,12,San Salvador,Masculino,50,2024-04-18
+305,47.46,Ropa,1,Sonsonate,Femenino,44,2025-04-21
+306,125.86,Tecnologia,8,San Salvador,Femenino,42,2024-03-16
+307,16.24,Restaurante,20,San Salvador,Femenino,27,2024-12-03
+308,86.48,Ropa,1,Santa Ana,Femenino,64,2024-05-28
+309,131.72,Ropa,8,Sonsonate,Masculino,40,2025-02-18
+310,15.51,Combustible,0,La Libertad,Femenino,38,2024-09-12
+311,47.94,Combustible,10,Santa Ana,Femenino,38,2024-07-15
+312,86.43,Viajes,2,San Salvador,Femenino,60,2025-02-27
+313,166.63,Supermercado,19,San Salvador,Masculino,30,2024-08-08
+314,51.37,Tecnologia,22,San Salvador,Masculino,54,2024-08-24
+315,122.42,Supermercado,3,Sonsonate,Femenino,50,2025-04-15
+316,215.32,Viajes,17,Sonsonate,Femenino,41,2024-07-11
+317,126.41,Combustible,22,Santa Ana,Femenino,61,2024-04-14
+318,70.9,Restaurante,5,La Libertad,Masculino,28,2024-02-10
+319,109.66,Combustible,2,Santa Ana,Masculino,34,2024-07-21
+320,50.11,Tecnologia,21,San Miguel,Masculino,21,2024-11-10
+321,89.05,Combustible,10,San Salvador,Femenino,64,2024-09-22
+322,73.68,Tecnologia,14,San Salvador,Masculino,42,2025-03-08
+323,107.08,Tecnologia,21,San Salvador,Femenino,47,2025-02-10
+324,59.47,Tecnologia,4,Santa Ana,Femenino,26,2024-02-27
+325,111.48,Viajes,19,Santa Ana,Femenino,38,2024-09-13
+326,59.01,Tecnologia,9,San Salvador,Masculino,37,2024-04-23
+327,153.16,Tecnologia,11,Santa Ana,Femenino,36,2024-11-19
+328,64.01,Restaurante,14,Sonsonate,Masculino,36,2024-03-22
+329,8.86,Supermercado,16,Sonsonate,Masculino,29,2025-01-28
+330,33.73,Ropa,9,Santa Ana,Femenino,54,2025-05-12
+331,84.53,Supermercado,5,San Salvador,Femenino,59,2024-04-25
+332,245.15,Tecnologia,17,Santa Ana,Masculino,34,2024-12-21
+333,149.15,Restaurante,12,Santa Ana,Femenino,54,2025-05-07
+334,6.58,Combustible,2,Santa Ana,Masculino,65,2024-01-17
+335,19.69,Restaurante,23,San Miguel,Femenino,56,2024-07-24
+336,181.11,Tecnologia,9,Sonsonate,Masculino,45,2025-02-09
+337,131.22,Restaurante,13,La Libertad,Masculino,58,2024-04-22
+338,332.63,Restaurante,5,La Libertad,Masculino,52,2024-04-08
+339,57.06,Tecnologia,2,San Miguel,Masculino,64,2024-06-11
+340,39.63,Viajes,15,Santa Ana,Femenino,65,2025-01-21
+341,88.04,Restaurante,6,San Miguel,Femenino,35,2024-04-26
+342,56.15,Ropa,19,San Miguel,Masculino,31,2024-11-18
+343,169.85,Ropa,13,San Salvador,Masculino,52,2025-04-20
+344,54.56,Restaurante,8,Sonsonate,Femenino,61,2024-11-22
+345,67.1,Viajes,14,La Libertad,Femenino,58,2025-01-12
+346,34.78,Combustible,20,Santa Ana,Femenino,24,2025-02-16
+347,142.37,Tecnologia,2,La Libertad,Femenino,58,2024-06-08
+348,36.86,Ropa,1,La Libertad,Femenino,30,2024-05-08
+349,112.97,Combustible,1,Sonsonate,Femenino,35,2024-02-03
+350,272.67,Restaurante,2,La Libertad,Masculino,54,2024-12-24
+351,13.18,Combustible,17,La Libertad,Femenino,30,2025-01-27
+352,222.01,Supermercado,13,San Miguel,Femenino,53,2025-04-13
+353,102.74,Ropa,19,Sonsonate,Masculino,48,2024-09-21
+354,29.75,Restaurante,17,San Salvador,Femenino,19,2024-08-15
+355,90.6,Tecnologia,9,Santa Ana,Femenino,33,2024-01-10
+356,139.51,Viajes,1,La Libertad,Femenino,26,2024-06-21
+357,42.01,Restaurante,21,Santa Ana,Femenino,26,2025-01-25
+358,117.62,Tecnologia,0,San Salvador,Femenino,55,2024-12-14
+359,234.28,Viajes,3,Santa Ana,Masculino,28,2024-06-03
+360,54.5,Viajes,13,San Salvador,Femenino,39,2025-01-06
+361,34.39,Restaurante,0,San Miguel,Masculino,50,2024-10-04
+362,75.47,Combustible,13,La Libertad,Masculino,53,2024-03-31
+363,86.98,Combustible,15,San Salvador,Femenino,62,2024-02-24
+364,175.8,Viajes,21,Santa Ana,Masculino,40,2024-11-17
+365,73.54,Combustible,13,La Libertad,Femenino,62,2025-05-10
+366,58.7,Supermercado,19,San Miguel,Masculino,62,2025-04-09
+367,33.59,Viajes,2,La Libertad,Masculino,51,2024-06-18
+368,15.65,Viajes,2,San Salvador,Femenino,26,2025-04-29
+369,24.72,Tecnologia,8,San Miguel,Femenino,41,2024-06-19
+370,24.57,Combustible,5,Santa Ana,Femenino,25,2024-09-11
+371,67.67,Viajes,12,San Miguel,Femenino,24,2025-03-14
+372,19.09,Supermercado,20,San Miguel,Femenino,53,2024-04-10
+373,79.88,Tecnologia,1,Sonsonate,Masculino,35,2024-02-05
+374,268.73,Restaurante,7,San Miguel,Masculino,20,2024-03-14
+375,179.26,Viajes,20,San Miguel,Masculino,45,2024-05-16
+376,67.15,Supermercado,1,La Libertad,Masculino,23,2024-02-13
+377,384.26,Ropa,3,Santa Ana,Masculino,61,2025-03-27
+378,87.21,Supermercado,14,La Libertad,Masculino,61,2025-03-16
+379,96.78,Supermercado,3,La Libertad,Masculino,38,2024-12-07
+380,74.36,Tecnologia,12,San Salvador,Femenino,45,2025-04-22
+381,81.24,Restaurante,11,La Libertad,Femenino,57,2024-03-28
+382,52.95,Ropa,12,Sonsonate,Masculino,18,2025-04-17
+383,67.93,Combustible,13,Sonsonate,Masculino,53,2025-02-21
+384,223.0,Combustible,19,San Salvador,Femenino,38,2024-03-21
+385,192.42,Supermercado,17,Santa Ana,Femenino,60,2024-02-08
+386,8.36,Tecnologia,5,Santa Ana,Femenino,52,2025-05-04
+387,21.5,Tecnologia,10,La Libertad,Femenino,30,2024-04-03
+388,42.53,Combustible,1,La Libertad,Masculino,66,2024-12-17
+389,159.5,Ropa,22,La Libertad,Femenino,27,2025-01-26
+390,195.31,Restaurante,18,Santa Ana,Masculino,61,2024-12-27
+391,139.14,Ropa,18,San Miguel,Masculino,64,2024-05-20
+392,29.63,Viajes,4,Sonsonate,Masculino,27,2025-03-15
+393,53.85,Viajes,18,San Miguel,Femenino,63,2024-09-03
+394,119.08,Restaurante,1,San Miguel,Femenino,30,2024-12-01
+395,68.76,Combustible,9,Santa Ana,Masculino,54,2024-09-01
+396,61.4,Restaurante,1,San Miguel,Masculino,55,2024-10-25
+397,62.14,Tecnologia,10,San Salvador,Masculino,41,2024-04-16
+398,182.8,Viajes,17,La Libertad,Femenino,19,2024-09-29
+399,127.78,Supermercado,23,San Salvador,Masculino,39,2024-12-19
+400,64.91,Supermercado,14,Sonsonate,Femenino,34,2024-05-04
+401,106.21,Combustible,8,La Libertad,Masculino,53,2024-02-28
+402,25.85,Tecnologia,22,San Miguel,Masculino,31,2024-10-11
+403,53.94,Ropa,18,Sonsonate,Masculino,27,2025-01-05
+404,171.04,Tecnologia,8,La Libertad,Femenino,52,2025-03-12
+405,17.83,Supermercado,2,San Miguel,Femenino,42,2024-09-16
+406,128.89,Supermercado,20,San Salvador,Masculino,20,2025-03-30
+407,8.24,Viajes,8,La Libertad,Femenino,64,2024-06-02
+408,247.81,Tecnologia,13,San Miguel,Masculino,55,2025-01-08
+409,52.88,Tecnologia,18,San Salvador,Femenino,34,2024-12-23
+410,111.84,Supermercado,6,Sonsonate,Femenino,29,2024-11-06
+411,90.93,Ropa,15,Sonsonate,Femenino,69,2024-01-19
+412,93.42,Combustible,15,Sonsonate,Masculino,41,2024-09-30
+413,104.82,Combustible,0,Sonsonate,Femenino,46,2024-03-29
+414,14.51,Tecnologia,3,Santa Ana,Femenino,60,2024-12-22
+415,94.86,Combustible,3,La Libertad,Masculino,42,2024-05-18
+416,72.01,Supermercado,6,La Libertad,Masculino,53,2024-11-27
+417,53.12,Supermercado,7,Santa Ana,Masculino,43,2024-03-30
+418,42.51,Tecnologia,16,San Miguel,Masculino,55,2024-07-05
+419,96.63,Tecnologia,4,San Miguel,Femenino,18,2024-11-15
+420,34.79,Viajes,6,Sonsonate,Femenino,37,2024-07-02
+421,168.98,Tecnologia,19,San Salvador,Femenino,45,2024-02-17
+422,117.71,Ropa,19,San Miguel,Femenino,33,2024-09-08
+423,100.98,Combustible,3,San Salvador,Femenino,64,2024-12-20
+424,164.22,Tecnologia,5,La Libertad,Masculino,34,2025-05-09
+425,12.04,Restaurante,6,San Salvador,Femenino,57,2024-09-28
+426,25.02,Viajes,17,La Libertad,Femenino,45,2024-06-17
+427,121.41,Restaurante,4,Santa Ana,Femenino,29,2024-03-10
+428,44.72,Supermercado,19,Santa Ana,Masculino,44,2024-06-04
+429,49.76,Combustible,2,Sonsonate,Masculino,59,2025-05-08
+430,21.52,Tecnologia,6,San Miguel,Femenino,64,2024-01-11
+431,34.88,Restaurante,21,Sonsonate,Masculino,47,2024-02-19
+432,171.53,Combustible,13,La Libertad,Masculino,58,2024-11-28
+433,119.41,Supermercado,6,Sonsonate,Masculino,51,2024-11-26
+434,95.84,Ropa,4,San Salvador,Masculino,54,2024-08-27
+435,51.43,Viajes,21,La Libertad,Masculino,23,2024-07-27
+436,91.46,Combustible,4,Santa Ana,Masculino,24,2025-04-11
+437,181.71,Combustible,22,San Miguel,Masculino,49,2024-04-17
+438,45.69,Ropa,1,La Libertad,Femenino,49,2024-08-22
+439,81.1,Combustible,20,La Libertad,Femenino,42,2025-03-03
+440,257.87,Supermercado,21,San Salvador,Masculino,50,2024-01-08
+441,137.88,Supermercado,5,San Miguel,Femenino,24,2024-04-02
+442,52.04,Ropa,14,Santa Ana,Femenino,69,2024-01-06
+443,130.26,Viajes,20,La Libertad,Masculino,29,2024-01-03
+444,17.52,Tecnologia,9,La Libertad,Femenino,33,2024-08-09
+445,78.62,Restaurante,22,San Salvador,Masculino,33,2024-08-10
+446,130.16,Tecnologia,23,Sonsonate,Masculino,60,2025-01-31
+447,110.36,Combustible,6,Santa Ana,Masculino,53,2024-10-28
+448,129.29,Restaurante,4,San Miguel,Femenino,30,2024-07-20
+449,149.59,Ropa,0,La Libertad,Femenino,24,2024-03-18
+450,116.63,Ropa,12,La Libertad,Femenino,53,2024-07-28
+451,114.26,Viajes,20,Santa Ana,Femenino,64,2025-03-21
+452,97.47,Restaurante,17,Sonsonate,Masculino,68,2024-03-26
+453,31.22,Supermercado,12,La Libertad,Masculino,26,2024-03-02
+454,171.48,Restaurante,20,Santa Ana,Femenino,49,2024-10-20
+455,80.81,Combustible,20,San Salvador,Masculino,28,2025-01-24
+456,135.52,Supermercado,17,Sonsonate,Masculino,25,2025-03-28
+457,159.76,Ropa,4,San Miguel,Femenino,50,2024-02-15
+458,54.26,Restaurante,12,La Libertad,Masculino,40,2024-10-03
+459,58.32,Tecnologia,3,Santa Ana,Femenino,42,2024-05-01
+460,64.93,Viajes,16,San Salvador,Masculino,25,2024-03-01
+461,193.51,Tecnologia,2,San Miguel,Femenino,62,2024-08-11
+462,37.9,Viajes,16,Santa Ana,Masculino,39,2024-01-15
+463,215.98,Combustible,10,Santa Ana,Masculino,21,2024-08-13
+464,96.68,Tecnologia,20,San Miguel,Femenino,57,2025-02-14
+465,101.79,Restaurante,19,San Salvador,Femenino,20,2025-02-25
+466,154.96,Restaurante,22,San Salvador,Femenino,46,2025-03-09
+467,88.76,Tecnologia,20,Sonsonate,Femenino,58,2024-06-09
+468,172.77,Restaurante,3,La Libertad,Masculino,46,2024-02-23
+469,54.2,Combustible,1,San Miguel,Masculino,51,2024-09-04
+470,211.43,Supermercado,19,San Miguel,Femenino,51,2025-05-06
+471,57.76,Combustible,15,San Miguel,Masculino,45,2024-12-26
+472,216.76,Viajes,17,San Salvador,Femenino,30,2024-11-03
+473,59.05,Combustible,7,La Libertad,Femenino,32,2024-03-24
+474,66.44,Viajes,2,Sonsonate,Masculino,40,2024-01-05
+475,33.87,Restaurante,8,Santa Ana,Masculino,61,2025-01-04
+476,42.95,Supermercado,19,Santa Ana,Femenino,43,2024-08-28
+477,81.11,Restaurante,5,San Miguel,Femenino,21,2024-10-08
+478,99.38,Ropa,9,La Libertad,Femenino,43,2024-08-29
+479,164.39,Restaurante,20,San Salvador,Masculino,57,2024-06-22
+480,70.27,Viajes,9,La Libertad,Masculino,26,2024-06-07
+481,110.54,Restaurante,12,La Libertad,Masculino,22,2024-02-16
+482,94.55,Restaurante,16,San Salvador,Masculino,49,2024-02-26
+483,119.33,Supermercado,8,San Miguel,Femenino,37,2024-07-06
+484,48.57,Restaurante,16,La Libertad,Femenino,67,2025-03-13
+485,53.54,Supermercado,23,Santa Ana,Femenino,28,2024-08-03
+486,48.59,Tecnologia,8,San Salvador,Femenino,32,2024-04-11
+487,186.06,Ropa,8,Sonsonate,Femenino,49,2024-02-21
+488,212.77,Supermercado,0,San Miguel,Femenino,45,2024-06-23
+489,51.65,Viajes,1,San Salvador,Masculino,39,2024-02-18
+490,52.53,Tecnologia,15,Sonsonate,Masculino,58,2024-11-16
+491,131.23,Supermercado,0,Sonsonate,Femenino,34,2025-05-05
+492,228.45,Supermercado,9,La Libertad,Femenino,43,2025-04-03
+493,261.32,Ropa,17,La Libertad,Masculino,61,2025-02-15
+494,49.71,Viajes,7,La Libertad,Masculino,24,2024-12-16
+495,60.73,Combustible,20,San Salvador,Masculino,59,2024-03-08
+496,103.18,Combustible,10,San Salvador,Masculino,43,2024-12-25
+497,106.84,Supermercado,22,San Miguel,Femenino,42,2025-03-31
+498,72.43,Restaurante,1,La Libertad,Femenino,27,2024-06-29
+499,41.7,Viajes,7,Sonsonate,Femenino,62,2025-04-05
+500,81.21,Tecnologia,21,Santa Ana,Femenino,36,2024-09-23
