@@ -40,36 +40,6 @@ print("Producto escalar:", np.dot(v, w))
 print("Norma del vector v:", np.linalg.norm(v))
 ```
 
----
-
-## 3. Operaciones con matrices
-
-```python
-B = np.array([[1, 2],
-              [3, 4]])
-
-print("Multiplicación de matrices:
-", np.dot(A, B))
-print("Transpuesta de A:
-", A.T)
-```
-
----
-
-## 4. Inversa y determinante
-
-```python
-# Determinante
-print("Determinante de A:", np.linalg.det(A))
-
-# Inversa (si existe)
-if np.linalg.det(A) != 0:
-    A_inv = np.linalg.inv(A)
-    print("Inversa de A:
-", A_inv)
-else:
-    print("La matriz A no es invertible.")
-```
 
 ---
 
