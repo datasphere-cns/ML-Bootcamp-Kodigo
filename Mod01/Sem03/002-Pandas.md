@@ -139,3 +139,63 @@ df_resumen.to_csv('resumen_transacciones.csv', index=False)
 ```
 
 ---
+
+Este ejemplo muestra cómo Pandas puede ayudarte a construir un flujo de trabajo completo: desde la creación de datos, su manipulación y análisis, hasta la generación de gráficos útiles para análisis de comportamiento.
+
+
+---
+
+## ¿Qué es `.iloc` y `.loc` en Pandas?
+
+Pandas proporciona dos formas muy comunes de seleccionar datos: **`iloc`** y **`loc`**. Es esencial entender la diferencia.
+
+---
+
+### `.iloc[]` – Selección por posición
+
+`.iloc` se usa para acceder a filas y columnas **por su posición numérica** (como una matriz).
+
+#### Sintaxis:
+```python
+df.iloc[filas, columnas]
+```
+
+#### Ejemplos:
+```python
+df.iloc[0]           # Primera fila
+df.iloc[0:2]         # Primeras dos filas
+df.iloc[0, 1]        # Fila 0, columna 1
+df.iloc[-1]          # Última fila
+df.iloc[:, 0:2]      # Todas las filas, dos primeras columnas
+```
+
+---
+
+### `.loc[]` – Selección por etiqueta
+
+`.loc` se usa para acceder a filas y columnas **por nombre de índice o etiqueta de columna**.
+
+#### Sintaxis:
+```python
+df.loc[fila, columna]
+```
+
+#### Ejemplos:
+```python
+df.loc[0, 'amount']          # Monto de la transacción con índice 0
+df.loc[df['category'] == 'Food']  # Todas las transacciones de tipo 'Food'
+df.loc[:, ['cardholder', 'amount']]  # Todas las filas, solo dos columnas
+```
+
+---
+
+### 🆚 Comparación rápida
+
+| Atributo | `.iloc[]`                          | `.loc[]`                            |
+|----------|------------------------------------|-------------------------------------|
+| Basado en | Posiciones numéricas (enteros)    | Nombres de etiquetas (índices/columnas) |
+| Ejemplo | `df.iloc[0, 1]`                     | `df.loc[0, 'amount']`               |
+| Uso común | Indexación estilo matriz           | Filtrado por condiciones o nombres  |
+
+---
+
