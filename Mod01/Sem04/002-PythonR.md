@@ -2,7 +2,7 @@
 
 Este documento explica cómo integrar código R en tus scripts de Python usando la librería `rpy2`, incluyendo cómo ejecutar código directamente y cómo intercambiar datos entre ambos lenguajes.
 
-## 🧠 Requisitos previos
+## Requisitos previos
 
 Antes de comenzar:
 
@@ -19,7 +19,7 @@ R --version
 pip install rpy2
 ```
 
-## 🧪 Ejecutar código R directamente desde Python
+## Ejecutar código R directamente desde Python
 
 Una vez instalado `rpy2`, puedes usar `robjects.r()` para ejecutar cualquier comando R como string desde Python.
 
@@ -35,7 +35,7 @@ robjects.r('print(x)')        # Imprime el vector generado
 
 Esto funciona como si escribieras directamente en una consola R, pero dentro de tu script Python.
 
-## 🔁 Pasar datos de Python a R y obtener resultados
+## Pasar datos de Python a R y obtener resultados
 
 Además de ejecutar instrucciones, puedes enviar datos desde Python hacia R, utilizarlos en funciones estadísticas y recuperar los resultados.
 
@@ -68,7 +68,7 @@ print("Media calculada en R:", resultado[0])
 - R calcula la media con su propia función `mean()`.
 - El resultado es devuelto a Python como un objeto accesible.
 
-## ✅ Conclusión
+## Conclusión
 
 Usar `rpy2` te permite:
 
