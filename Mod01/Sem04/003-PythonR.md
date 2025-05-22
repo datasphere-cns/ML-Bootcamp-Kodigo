@@ -20,7 +20,7 @@ install.packages("dplyr")
 
 ---
 
-## 🧪 Script completo en Python
+## Script completo en Python
 
 ```python
 import pandas as pd
