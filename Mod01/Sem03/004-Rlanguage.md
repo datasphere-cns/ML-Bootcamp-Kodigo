@@ -41,7 +41,7 @@ library(readr)
 library(ggplot2)
 
 # Cargar el dataset
-df <- read_csv("transacciones_tarjetas.csv")
+df <- read_csv("C:/virtual_environment/Mod01/R-Lang/transacciones_tarjetas.csv")
 
 # UI
 ui <- fluidPage(
