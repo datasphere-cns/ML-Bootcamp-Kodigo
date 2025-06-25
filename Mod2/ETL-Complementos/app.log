@@ -1,0 +1,30 @@
+2024-10-30 17:50:12,201 - INFO - Inicio de la operación de escritura.
+2024-10-30 17:50:12,201 - INFO - Intentando escribir en el archivo datos.txt
+2024-10-30 17:50:12,202 - DEBUG - Contenido escrito: Este es un ejemplo de contenido.
+2024-10-30 17:50:12,202 - INFO - Escritura finalizada.
+2024-10-30 17:50:12,202 - INFO - Inicio de la operación de lectura.
+2024-10-30 17:50:12,202 - INFO - Intentando leer el archivo datos.txt
+2024-10-30 17:50:12,208 - DEBUG - Contenido leído: Este es un ejemplo de contenido.
+2024-10-30 17:50:12,210 - INFO - Contenido leído exitosamente.
+2024-10-30 17:50:12,210 - INFO - Lectura finalizada.
+2024-10-30 17:50:17,513 - INFO - Inicio de la operación de escritura.
+2024-10-30 17:50:17,513 - INFO - Intentando escribir en el archivo datos.txt
+2024-10-30 17:50:17,513 - DEBUG - Contenido escrito: Este es un ejemplo de contenido.
+2024-10-30 17:50:17,513 - INFO - Escritura finalizada.
+2024-10-30 17:50:17,513 - INFO - Inicio de la operación de lectura.
+2024-10-30 17:50:17,513 - INFO - Intentando leer el archivo datos.txt
+2024-10-30 17:50:17,515 - DEBUG - Contenido leído: Este es un ejemplo de contenido.
+2024-10-30 17:50:17,515 - INFO - Contenido leído exitosamente.
+2024-10-30 17:50:17,515 - INFO - Lectura finalizada.
+2024-10-30 17:50:19,897 - INFO - Inicio de la operación de escritura.
+2024-10-30 17:50:19,897 - INFO - Intentando escribir en el archivo datos.txt
+2024-10-30 17:50:19,897 - DEBUG - Contenido escrito: Este es un ejemplo de contenido.
+2024-10-30 17:50:19,897 - INFO - Escritura finalizada.
+2024-10-30 17:50:19,897 - INFO - Inicio de la operación de lectura.
+2024-10-30 17:50:19,897 - INFO - Intentando leer el archivo datos.txt
+2024-10-30 17:50:19,898 - DEBUG - Contenido leído: Este es un ejemplo de contenido.
+2024-10-30 17:50:19,898 - INFO - Contenido leído exitosamente.
+2024-10-30 17:50:19,899 - INFO - Lectura finalizada.
+2024-10-30 18:05:39,056 - ERROR - No such comm target registered: jupyter.widget.control
+2024-10-30 18:05:39,081 - WARNING - No such comm: 7f280071-0af4-4855-b7eb-b59f50c369fb
+2024-10-30 18:05:39,082 - DEBUG - Current comms: []

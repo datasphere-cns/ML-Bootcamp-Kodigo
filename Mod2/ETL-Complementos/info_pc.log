@@ -1,0 +1,15 @@
+2024-10-30 17:51:20,730 - INFO - Inicio de la operación para obtener y escribir el nombre de la computadora.
+2024-10-30 17:51:20,731 - INFO - Nombre de la computadora obtenido: Nelson
+2024-10-30 17:51:20,732 - INFO - Intentando escribir el nombre de la computadora en el archivo nombre_pc.txt
+2024-10-30 17:51:20,733 - DEBUG - Nombre de la computadora escrito: Nelson
+2024-10-30 17:51:20,734 - INFO - Operación finalizada exitosamente.
+2024-10-30 17:51:20,734 - INFO - Proceso terminado.
+2024-10-30 17:51:24,400 - INFO - Inicio de la operación para obtener y escribir el nombre de la computadora.
+2024-10-30 17:51:24,401 - INFO - Nombre de la computadora obtenido: Nelson
+2024-10-30 17:51:24,401 - INFO - Intentando escribir el nombre de la computadora en el archivo nombre_pc.txt
+2024-10-30 17:51:24,403 - DEBUG - Nombre de la computadora escrito: Nelson
+2024-10-30 17:51:24,403 - INFO - Operación finalizada exitosamente.
+2024-10-30 17:51:24,403 - INFO - Proceso terminado.
+2024-10-30 18:05:34,609 - ERROR - No such comm target registered: jupyter.widget.control
+2024-10-30 18:05:34,621 - WARNING - No such comm: 8352793f-69cf-4ea9-8327-1613a896cdf2
+2024-10-30 18:05:34,621 - DEBUG - Current comms: []

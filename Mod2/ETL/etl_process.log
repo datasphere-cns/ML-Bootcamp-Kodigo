@@ -1,0 +1,71 @@
+2024-10-28 17:56:44,926 - INFO - Estableciendo conexión con la base de datos.
+2024-10-28 17:56:46,313 - INFO - Ejecutando consulta SQL.
+2024-10-28 17:56:48,611 - INFO - Consulta ejecutada exitosamente y resultados obtenidos.
+2024-10-28 17:56:48,616 - INFO - DataFrame creado a partir de los resultados.
+2024-10-28 17:56:48,618 - INFO - Columna 'is_active' transformada a booleano.
+2024-10-28 17:56:48,620 - INFO - Analizando la cardinalidad de las variables categóricas.
+2024-10-28 17:56:48,622 - INFO - iata: 3372 categorías únicas.
+2024-10-28 17:56:48,625 - INFO - airport: 3233 categorías únicas.
+2024-10-28 17:56:48,627 - INFO - city: 2672 categorías únicas.
+2024-10-28 17:56:48,628 - INFO - state: 56 categorías únicas.
+2024-10-28 17:56:48,630 - INFO - country: 5 categorías únicas.
+2024-10-28 17:56:48,632 - INFO - Verificando la normalidad de la columna 'num_carriers'.
+2024-10-28 17:56:48,634 - INFO - Prueba de Shapiro-Wilk completada: Estadístico=0.9564688446927009, p-valor=1.2614164683348012e-30
+2024-10-28 17:56:48,643 - INFO - Prueba de Kolmogorov-Smirnov completada: Estadístico=0.059809650675222426, p-valor=6.293053221006932e-11
+2024-10-28 17:56:48,644 - INFO - La columna 'num_carriers' no sigue una distribución normal.
+2024-10-28 17:56:48,714 - INFO - One-Hot Encoding aplicado a las variables categóricas.
+2024-10-28 17:56:48,731 - INFO - Frequency Encoding aplicado a las variables categóricas.
+2024-10-28 17:56:48,732 - INFO - Columna de target simulada agregada para Target Encoding.
+2024-10-28 17:56:48,749 - INFO - Target Encoding aplicado a las variables categóricas.
+2024-10-28 17:56:48,752 - INFO - Conexión con la base de datos cerrada.
+2024-10-28 17:56:55,448 - ERROR - No such comm target registered: jupyter.widget.control
+2024-10-28 17:56:55,451 - WARNING - No such comm: 8811a9d8-e760-41b9-bb85-ffe8d8dd72ea
+2024-10-28 17:56:57,806 - INFO - Estableciendo conexión con la base de datos.
+2024-10-28 17:56:59,965 - INFO - Ejecutando consulta SQL.
+2024-10-28 17:57:01,349 - INFO - Consulta ejecutada exitosamente y resultados obtenidos.
+2024-10-28 17:57:01,355 - INFO - DataFrame creado a partir de los resultados.
+2024-10-28 17:57:01,361 - INFO - Columna 'is_active' transformada a booleano.
+2024-10-28 17:57:01,363 - INFO - Analizando la cardinalidad de las variables categóricas.
+2024-10-28 17:57:01,365 - INFO - iata: 3372 categorías únicas.
+2024-10-28 17:57:01,368 - INFO - airport: 3233 categorías únicas.
+2024-10-28 17:57:01,370 - INFO - city: 2672 categorías únicas.
+2024-10-28 17:57:01,371 - INFO - state: 56 categorías únicas.
+2024-10-28 17:57:01,372 - INFO - country: 5 categorías únicas.
+2024-10-28 17:57:01,375 - INFO - Verificando la normalidad de la columna 'num_carriers'.
+2024-10-28 17:57:01,378 - INFO - Prueba de Shapiro-Wilk completada: Estadístico=0.9564688446927009, p-valor=1.2614164683348012e-30
+2024-10-28 17:57:01,390 - INFO - Prueba de Kolmogorov-Smirnov completada: Estadístico=0.059809650675222426, p-valor=6.293053221006932e-11
+2024-10-28 17:57:01,392 - INFO - La columna 'num_carriers' no sigue una distribución normal.
+2024-10-28 17:57:01,463 - INFO - One-Hot Encoding aplicado a las variables categóricas.
+2024-10-28 17:57:01,477 - INFO - Frequency Encoding aplicado a las variables categóricas.
+2024-10-28 17:57:01,479 - INFO - Columna de target simulada agregada para Target Encoding.
+2024-10-28 17:57:01,498 - INFO - Target Encoding aplicado a las variables categóricas.
+2024-10-28 17:57:01,500 - INFO - Conexión con la base de datos cerrada.
+2024-10-28 17:57:53,592 - INFO - Iniciando proceso ETL.
+2024-10-28 17:57:53,594 - INFO - Estableciendo conexión con la base de datos.
+2024-10-28 17:57:55,511 - INFO - Ejecutando consulta SQL.
+2024-10-28 17:57:56,922 - INFO - DataFrame creado a partir de los resultados.
+2024-10-28 17:57:56,923 - INFO - Conexión con la base de datos cerrada.
+2024-10-28 17:57:56,924 - INFO - Transformando columna 'is_active' a booleano.
+2024-10-28 17:57:56,927 - INFO - Verificando normalidad de la columna 'num_carriers'.
+2024-10-28 17:57:56,939 - INFO - Prueba de Shapiro-Wilk: Estadístico=0.9564688446927009, p-valor=1.2614164683348012e-30
+2024-10-28 17:57:56,940 - INFO - Prueba de Kolmogorov-Smirnov: Estadístico=0.059809650675222426, p-valor=6.293053221006932e-11
+2024-10-28 17:57:56,941 - INFO - La columna 'num_carriers' no sigue una distribución normal.
+2024-10-28 17:57:56,944 - INFO - Aplicando One-Hot Encoding a las variables categóricas.
+2024-10-28 17:57:56,995 - INFO - DataFrame después de One-Hot Encoding: 9343 columnas.
+2024-10-28 17:57:56,996 - INFO - Aplicando Frequency Encoding a las variables categóricas.
+2024-10-28 17:57:57,011 - INFO - DataFrame después de Frequency Encoding: 10 columnas.
+2024-10-28 17:57:57,012 - INFO - Aplicando Target Encoding a las variables categóricas.
+2024-10-28 17:57:57,029 - INFO - DataFrame después de Target Encoding: 10 columnas.
+2024-10-28 17:57:57,030 - INFO - Proceso ETL completado.
+2024-10-28 19:53:46,483 - ERROR - No such comm target registered: jupyter.widget.control
+2024-10-28 19:53:46,513 - WARNING - No such comm: 95b3cfc7-9bac-433b-904b-97bc49429077
+2024-10-28 19:57:19,218 - ERROR - No such comm target registered: jupyter.widget.control
+2024-10-28 19:57:19,243 - WARNING - No such comm: ee079b10-9083-4763-b711-9c43c4ed1224
+2024-10-28 20:11:51,988 - ERROR - No such comm target registered: jupyter.widget.control
+2024-10-28 20:11:52,013 - WARNING - No such comm: bc13e213-256c-49b8-abd4-1184d391ebba
+2024-10-28 20:11:52,260 - ERROR - No such comm target registered: jupyter.widget.control
+2024-10-28 20:11:52,276 - WARNING - No such comm: afe9d611-8424-4def-a6e7-5a57957b3a00
+2024-10-28 20:26:12,957 - ERROR - No such comm target registered: jupyter.widget.control
+2024-10-28 20:26:12,973 - WARNING - No such comm: f4f1b0e8-774d-4998-a446-0608bf566d50
+2024-10-28 20:47:31,070 - ERROR - No such comm target registered: jupyter.widget.control
+2024-10-28 20:47:31,076 - WARNING - No such comm: e047120c-9d82-450e-b55c-bc4ba42a3fa5
