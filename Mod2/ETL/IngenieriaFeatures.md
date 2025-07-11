@@ -66,7 +66,7 @@ Estas nuevas features pueden capturar **patrones más complejos** y mejorar el r
 Convertir una columna categórica (`color`) en variables numéricas que un modelo de Machine Learning pueda procesar.
 
 
-### 🧾 Datos Originales
+### Datos Originales
 
 | id | color   |
 |----|---------|
